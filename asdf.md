@@ -64,7 +64,6 @@ Structure d'un plugin:
 
 
 ### 5. Pour aller plus loin
-![camera_2b3cc2c5-2e83-43d5-a090-185026104e8c](/camera_2b3cc2c5-2e83-43d5-a090-185026104e8c.jpg)
 
 https://github.com/asdf-community/asdf-plugin-manager
 
