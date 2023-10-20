@@ -9,8 +9,9 @@ Aujourd’hui, le cloud permet d’améliorer la disponibilité et l’évolutiv
 Durant ce talk, je vous présenterai la checklist qui vous permettra de rendre vos applications véritablement "cloud native" pour tirer le meilleur de ce modèle.
 
 ## 1. Pourquoi ce talk ?
-Le marché du cloud est en constante augmentation
-![camera_1b1e5769-17af-447b-a9e7-760cd74e519b](/camera_1b1e5769-17af-447b-a9e7-760cd74e519b.jpg)
+Le marché du cloud est en constante augmentation.
+
+La tendance semble être à l'optimisation des coûts pour les applis déjà présentes dans le cloud.
 
 Objectifs:
 - partager un retour d'XP
