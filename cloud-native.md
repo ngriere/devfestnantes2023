@@ -2,6 +2,8 @@
 #  📝 ✅ La checklist ultime pour rendre vos applications cloud native !
 > 20/10 à 14:00 - Katia HIMEUR / Cockpit Io
 
+![Cloud & DevOps](https://img.shields.io/badge/Cloud%20&%20DevOps-green)
+
 Aujourd’hui, le cloud permet d’améliorer la disponibilité et l’évolutivité de nos applications. Grâce au cloud, nous pouvons provisionner de nouvelles infrastructures rapidement et faire évoluer avec la même vitesse les infrastructures existantes. Nous ne présentons plus les avantages du Cloud ni la multitude de services cloud existants. De prime abord, migrer une application sur le Cloud peut sembler un sujet trivial. Mais, toutes les applications sont-elles faites pour être déployées sur le Cloud ? D'où viennent tous ces projets de migration ratés alors ?
 
 Durant ce talk, je vous présenterai la checklist qui vous permettra de rendre vos applications véritablement "cloud native" pour tirer le meilleur de ce modèle.
