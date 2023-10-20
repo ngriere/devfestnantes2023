@@ -1,4 +1,4 @@
-#  Le Second Brain, pourquoi et comment il peut changer votre vie.
+# :bulb: Le Second Brain, pourquoi et comment il peut changer votre vie.
 > 19/10 à 17:20 - Samuel NAIT / AllTech
 
 ![Discovery](https://img.shields.io/badge/Discovery-blue)
