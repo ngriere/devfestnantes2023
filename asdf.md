@@ -1,5 +1,7 @@
-# asdf, un outil pour toutes vos versions 
+# 📝asdf, un outil pour toutes vos versions 
 > 19/10 à 17:50 - Sylvain METAYER / Onepoint
+
+![Outils](https://img.shields.io/badge/Outils-orange)
 
 Fatigué de devoir installer 50 outils différents pour changer de version de node/java/terraform/... ?
 
@@ -27,7 +29,7 @@ Ce fichier repertorie les versions utilisées des outils. AU sein d'un projet, i
 ### shims
 Petits wrappers qui indique quelles versions utiliser
 
-### 3. Local vs. global
+## 3. Local vs. global
 ![image](https://github.com/ngriere/devfestnantes2023/assets/9659029/bf4ba2d6-38f9-4689-9fac-870face5fe43)
 
 Installation d'une version: `asdf install <plugin> <version>`
@@ -55,7 +57,7 @@ Lister les versions installées:
 asdf list nodejs
 ```
 
-### 4. Création d'un plugin custom
+## 4. Création d'un plugin custom
 Suivre les instructions en prenant le template de création d'un plugin de base: https://github.com/asdf-vm/asdf-plugin-template
 
 Structure d'un plugin:
@@ -63,9 +65,7 @@ Structure d'un plugin:
 ![image](https://github.com/ngriere/devfestnantes2023/assets/9659029/51d5eb0e-2456-4d45-9caf-4f94461e024b)
 
 
-### 5. Pour aller plus loin
-
-https://github.com/asdf-community/asdf-plugin-manager
-
-[Site de la prez](https://r.sylvain.dev/devfest-nantes2023)
+## 5. Ressources
+- [asdf Plugin Manager](https://github.com/asdf-community/asdf-plugin-manager)
+- [Site de la prez](https://r.sylvain.dev/devfest-nantes2023)
 
