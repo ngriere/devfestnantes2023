@@ -1,5 +1,5 @@
 
-# L'AGC : retour sur l'ordinateur qui a amené l'humanité sur la Lune 
+# :bulb: L'AGC : retour sur l'ordinateur qui a amené l'humanité sur la Lune 
 > 20/10 à 15:10 - Olivier PONCET et Romain BERTHON
 
 ![Discovery](https://img.shields.io/badge/Discovery-blue)
