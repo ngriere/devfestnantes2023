@@ -70,9 +70,9 @@ Network panel - long List of type files to select
 Go to preferences to edit multiple select
 
 ### 4.4. Emulate a focused page
-Select three dots and find option **emulate rendering**
+Select three dots and find option **emulate rendering**. [More options](https://goo.gle/devtools-emulate-effects) are available.
+![image](https://github.com/ngriere/devfestnantes2023/assets/9659029/f2e2aacb-875a-4072-84e4-2cec4e6fc252)
 
-![camera_1014d8be-9ed7-4119-b7fb-7c7086ae9967](/camera_1014d8be-9ed7-4119-b7fb-7c7086ae9967.jpg)
 
 ### 4.5. Record
 Experimental Recorder. Create a recorder and add break point on steps.
@@ -83,7 +83,7 @@ Export as a JSON file and send to a colleague so he can then replay the record.
 Show code &rarr; extract to Cypress for e2e test !!!
 
 
-## Resources
+## 5. Resources
 - [Presentation Link](https://drive.google.com/file/d/1h7_i0UPAk_GYSGgKX6U_f4XJBO_JBBtn/view?pli=1)
 - [Coffee Cart App to play around](https://coffee-cart.app/)
 - [Vidéos Dev Tools](https://goo.gle/devtools-youtube)
