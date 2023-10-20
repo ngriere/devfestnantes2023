@@ -2,6 +2,8 @@
 # L'AGC : retour sur l'ordinateur qui a amené l'humanité sur la Lune 
 > 20/10 à 15:10 - Olivier PONCET et Romain BERTHON
 
+![Discovery](https://img.shields.io/badge/Discovery-blue)
+
 Lundi 21 juillet 1969, l’humanité posait pour la première fois le pied sur la Lune. Cet exploit est le fruit de nombreuses avancées techniques et technologiques, notamment en électronique et dans le domaine de l’informatique alors naissant. Pour mener à bien leurs missions, les astronautes s’appuyaient sur l’**Apollo Guidance Program (ACG)**, l’ordinateur de bord du programme Apollo qui permettra de réaliser ces exploits.
 
 ## 1. Contexte
@@ -27,7 +29,6 @@ Voici ses caractéristiques techniques:
 - Largeur des registres de 16-bits (dont 1 de contrôle)
 - Poids de 32kg
 - Puissance inférieure à un Nokia ou une calculatrice scientifique
--
 
 L'ACG s'appuie sur une archi simple et efficace.
 
@@ -47,8 +48,8 @@ L'ordinateur est construit avec des portes NOR. Pour stocker l'état d'un bit: l
 Avec son propre langage (interpretive) qui compile en assembleur
 
 
-### 4. Le software
-Le **Display and Keyboard (DSKY)** composé l'interface utilisateur.
+## 4. Le software
+Le **Display and Keyboard (DSKY)** compose l'interface utilisateur.
 Pour interagir avec la machine : Programmes, verbes et noms
 
 Ex : allumer les lampes du DSKY
