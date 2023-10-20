@@ -12,7 +12,7 @@ Lundi 21 juillet 1969, l’humanité posait pour la première fois le pied sur l
 
 &rarr; Le constat est dure, dans la course à la Lune, les Américains sont à la traîne.
 
-Le défi technologique est immense.
+&rarr; Le défi technologique est immense.
 
 ## 2. Les responsabilités de l'ACG 
 
@@ -58,7 +58,10 @@ Ex : allumer les lampes du DSKY
 Le **DSKY** doit pouvoir afficher une surcharge de travail.
 
 Il supporte le multi processing.
-Voici la base de code de l'ACG mette photo célèbre de la dame avec le bouquin.
+
+Voici Margaret Hamilton du MIT à côté de la base de code de l'ACG:
+
+![margaret-hamilton-mit.jpg](https://github.com/ngriere/devfestnantes2023/assets/9659029/a7b93ff8-d430-4140-89fa-8b691f9caf03)
 
 ## 5. Héritage du programme Apollo
 - Grosses avancées dans la micro-electronie
