@@ -1,5 +1,5 @@
 #  :bulb: The laundromat : quand les journalistes deviennent data analystes
-> 19/10 à 13:58 - Antoine Bonneau / Guillaume Renaudin / Zenika
+> 19/10 à 13:58 - Antoine BONNEAU et Guillaume RENAUDIN / Zenika
 
 ![Discovery](https://img.shields.io/badge/Discovery-blue)
 
