@@ -57,7 +57,7 @@ Est-ce vraiment cela le secret pour réussir sa migration ?
 Que faire alors ? 
 &rarr; suivre quelques règles de bases.
 
-## Règles pour réussir sa migration cloud native
+## 4. Règles pour réussir sa migration cloud native
 1. Ne pas se concentrer uniquement sur la technique. 
 2. Définir ses objectifs. Pourquoi choisir le cloud ? Quels avantages recherchés ? Quels objectifs business ? Aller sur le cloud n'est pas un objectif mais un moyen d'atteindre les objectifs business !
 3. Communiquer avant, pendant et après le projet. Même niveau d'information, rappelez les objectifs.
@@ -74,7 +74,7 @@ Que faire alors ?
 14. Documenter: faire au fur et à mesure
 15. Itérer: ajuster l'infrastructure et le dimensionnement, ajuster le monitoring
 
-## Stratégies de migration
+## 5. Stratégies de migration
 
 | Stratégie | Description  |
 |----|----|
