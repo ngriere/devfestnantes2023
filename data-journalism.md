@@ -68,76 +68,64 @@ Le **but** du data journalisme est notamment de réussir à réconcilier 2 monde
 2. La data &rarr; très scientifique
 
 ## 3. L'accès aux données
+![donnees](https://github.com/ngriere/devfestnantes2023/assets/9659029/a85a593a-5f2a-4347-852b-3d4bf8e8df63)
 
-![camera_80efe758-5856-49e4-9d97-25c556f4b770](/camera_80efe758-5856-49e4-9d97-25c556f4b770.jpg)
+Les 2 seuls procès ayant eu lieu concernent des **lanceurs d'alertes**. Grosse masse de données provenant des lanceurs d'alertes et alimentant le travail des journalistes d'investigation
 
-Les 2 seuls procès ayant eu lieu concernent des lanceurs d'alertes. Grosse masse de données provenant des lanceurs d'alertes et alimentant le travail des journalistes d'investigation
+### Où trouver de la data ?
+- OpenData (ex: [SNCF](https://ressources.data.sncf.com/pages/accueil/), [data.gouv](https://www.data.gouv.fr/)): beaucoup d'entreprises comprennent l'intérêt de mettre leurs données en accès.
+- Sites de références : permettent de naviguer dans l'historique des révélations etc.
+- Curation et extraction : data miners qui lisent Twitter pour lire les activités anormales. Passer du texte à l'image etc.
+- Webscrapping pour récupérer des données de sites (attention pas souvent légal)
+- Archives : rapports scientifiques etc. Arxiv, WaybackMachine
+- Et pleins d'autres: [DocumentCloud](https://www.documentcloud.org/home), [GitHub ICIJ](https://github.com/ICIJ), [OSINT Framework](https://osintframework.com/)
 
-OpenData (ex SNCF, data.gouv): bcp d'entreprises comprennent l'intérêt de mettre leurs données en accès.
-
-Sites de références : permettent de naviguer dans l'historique des révélations etc.
-
-Curation et extraction : data mineurs qui lisent tweeters pour lire les activités anormales. Passer du texte à l'image etc.
-Webscrapping pour récupérer des données de sites (attention pas légal souvent)
-
-Archives : rapports scientifiques etc. Arxiv, WaybackMachine
-
-### où trouver de la data
-data.gouv
-Possibilité de déposer des jeux de données soit même et se nombreux consultables.
+:bulb: Sur data.gouv - possibilité de déposer des jeux de données soit même et de nombreux sont consultables.
 Fabriquedunumerique
-Documentcloud.org
 
-### les outils
+### Les outils
 Passer d'une donne brute à "l'histoire"
 
-1. Traditionnel -> excel
-2. Nettoyage -> Open Refine
-3. Développeur -> Python, Pandas, Notebook (Jupyter, Google Collab)
-4. Requêter, extraire -> SQL, Spark, Outwithub, Tabula
-5. Partager -> Datashare
-6. Exposer, dataviz -> Datawrapper
+1. Traditionnel &rarr; Excel
+2. Nettoyage &rarr; Open Refine
+3. Développeur &rarr; Python, Pandas, Notebook (Jupyter, Google Collab)
+4. Requêter, extraire &rarr; SQL, Spark, Outwithub, Tabula
+5. Partager &rarr; Datashare
+6. Exposer, dataviz &rarr; Datawrapper
 
-Et pleins d'autres:
-Https://github.com/ICIJ
-Osintframework.com
-
-### et vous ? Données citoyennes
-Observatoires citoyens
-Ex:
-- allô place Beauvau -> les violences policières 
-- COVID tracker -> suivre l'évolution de la pandémie covid
-- nosdéputés.fr -> presenteisme des députés, sujets courants discutés à l'assemblée.
+### Et vous ? Données citoyennes
+Observatoires citoyens, par exemple:
+- [Allô place Beauvau](https://wedodata.fr/productions/mediapart-allo-place-beauvau/) &rarr; Données sur les violences policières 
+- [COVID tracker](https://covidtracker.fr/) &rarr; Suivre l'évolution de la pandémie covid
+- [nosdéputés.fr](https://www.nosdeputes.fr/) -> Présenteisme des députés, sujets courants discutés à l'assemblée.
 
 ### et vous ? Debunker ou fact-checker
 ![camera_390fc538-0ace-446f-9fdd-e3e1be528882](/camera_390fc538-0ace-446f-9fdd-e3e1be528882.jpg)
 
-### démo
-Datashare -> Open Refine -> Datawrapper
+### Démo
+Datashare &rarr; Open Refine &rarr; Datawrapper
 
 1. Webscrapping d'un site pour récupérer les dialogues des 5 premières minutes du film thé Laudromat
 2. Passage des données dans OpenRefine -> extraire les pays mentionnés dans les films et les mentionner par rapport aux leaks Panama Papers pour voir si la couverture est exhaustive ou non.
 
-Datawrapper -> facile à prendre en main / partage de Map collaborative
+Datawrapper &rarr; facile à prendre en main / partage de Map collaborative
 
-Partage de Map en temps réel -> nécessite une connexion avec Google sheets
+Partage de Map en temps réel &rarr; nécessite une connexion avec Google Sheets
 
-## Ouverture
-### à venir
-Lancement le 24 octobre du TEMS -> plateforme collaborative pour du contenu vérifié
+## 4. Ouverture
+Lancement en octobre 2024 du consortium TEMS (Trusted European Media Data Space)
 
-### médias et IA
-Crainte / Opportunités
-AssociatedPress et OpenAi vont collaborer
+Concernant les médias et leur rapport à l'IA, il y a autant de craintes que d'opportunités.
+
+AssociatedPress et OpenAI vont collaborer.
+
 Google collabore avec le New York Times et le Washington Post.
 
 2 approches:
-US est précurseur de la dataviz, de l'ouverture des données et veut travailler avec les Big players
+- US est précurseur de la dataviz, de l'ouverture des données et veut travailler avec les big players
+- l'UE créé des collectifs pour se protéger et vérifier les données 
 
-UE crée des collectifs pour se protéger et vérifier les données 
-
+### Grosse opportunité
 Radio-France : 700 journalistes
-10% formes au numérique
-5% des 10% travaillent dans la donnée
-
-Grosse opportunité 
+- 10% formés au numérique
+- 5% des 10% travaillent dans la donnée
