@@ -99,8 +99,7 @@ Observatoires citoyens, par exemple:
 - [COVID tracker](https://covidtracker.fr/) &rarr; Suivre l'évolution de la pandémie covid
 - [nosdéputés.fr](https://www.nosdeputes.fr/) -> Présenteisme des députés, sujets courants discutés à l'assemblée.
 
-### et vous ? Debunker ou fact-checker
-![camera_390fc538-0ace-446f-9fdd-e3e1be528882](/camera_390fc538-0ace-446f-9fdd-e3e1be528882.jpg)
+![Debunker - Fact - Checker](https://github.com/ngriere/devfestnantes2023/assets/9659029/f79cb979-b4f5-4784-baa2-98dd132d3cb7)
 
 ### Démo
 Datashare &rarr; Open Refine &rarr; Datawrapper
