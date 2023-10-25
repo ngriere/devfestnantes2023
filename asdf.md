@@ -1,7 +1,7 @@
 # 📝asdf, un outil pour toutes vos versions 
 > 19/10 à 17:50 - Sylvain METAYER / Onepoint
 
-![Outils](https://img.shields.io/badge/Outils-orange)
+![Outils](https://img.shields.io/badge/Outils-yellow)
 
 Fatigué de devoir installer 50 outils différents pour changer de version de node/java/terraform/... ?
 
